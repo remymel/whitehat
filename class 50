@@ -1,0 +1,22 @@
+<h1>Drawing</h1>
+<section>
+<p> i like drawing because, 1 it takes up time and its acully fun. and 2 because it is a fun and creative thing to fill in your time.</p>
+
+<ul>
+    <li>about</li>
+    <li>my favorite hobby/charecter reviews</li>
+    <li>my work</li>
+    <li>My inspiration</li>
+    <li>contact</li>
+    </ul>
+    <section id="welcome"></section>
+<div class="inner"><img src="https://i.imgur.com/rfjV49Z.gif"></div>
+</section>
+<section id="hobby/charecter reviews">
+<h1>hobb</h1><div class="line"></div>
+<p> my hobby is drawing, but not only with a pencil... i also learned how to draw online with a mouse. i would describe drawing as a very popular hobby because well everyone does it, and i really like it.</p></section>
+<section id="my inspiration">
+<h1>my inspiration</h1>
+<div class="line"></div>
+<p>my inpiration for making some of my drawing is sometimes to find two differant images from online and combine them. or sometimes just from what i see.</p>
+<iframe width="853" height="480" img="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FMona_Lisa&psig=AOvVaw3jo2CbAfWk8twZS0HBarr4&ust=1607385937903000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOCv-rHJuu0CFQAAAAAdAAAAABAD"></iframe></section>

@@ -1,0 +1,9 @@
+img {width:60%}
+body{background-color:cornflowerblue;
+text-align:center;
+font-size:20px;}
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Nerko+One&display=swap" rel="stylesheet">
+links:hover{
+    background-color: aquamarine
+}
